@@ -2,8 +2,6 @@
 
 Entrepreneur | Computer Graphics & Vision Researcher
 
-![alt text](https://github.com/debanga/debanga.github.io/blob/master/debanga_profile.JPG)
-
 Also worked on gaze analysis, face tracking & animation, physics-based simulation, augmented-reality.
 
 You can find my professional information in [LinkedIn](https://www.linkedin.com/in/debanga/).
