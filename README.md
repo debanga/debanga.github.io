@@ -1,8 +1,10 @@
 # DEBANGA RAJ NEOG 
 
-### Entrepreneur, Computer Graphics & Vision Researcher
+### PhDc, Computer Science, University of British Columbia
 
-PhDc, Computer Science, University of British Columbia
+#### Entrepreneur, Computer Graphics & Vision Researcher
+
+
 
 ---
 
