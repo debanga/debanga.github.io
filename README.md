@@ -1,10 +1,10 @@
 # DEBANGA RAJ NEOG 
 
+### Entrepreneur, Computer Graphics & Vision Researcher
+
 PhDc, Computer Science, University of British Columbia
 
 ---
-
-Entrepreneur | Computer Graphics & Vision Researcher
 
 Also worked on gaze analysis, face tracking & animation, physics-based simulation, augmented-reality.
 
