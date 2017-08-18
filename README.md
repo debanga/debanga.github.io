@@ -1,4 +1,4 @@
-# DEBANGA RAJ NEOG 
+# Debanga Raj Neog
 
 ### PhDc, Computer Science, University of British Columbia
 
