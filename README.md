@@ -8,13 +8,15 @@
 
 ---
 
-I have worked on gaze analysis, face tracking & animation, physics-based simulation, augmented-reality.
+Selected topics that I have worked on include gaze analysis, face tracking & animation, physics-based simulation, and augmented-reality.
 
-My research profile is available in [Google Scholar](https://scholar.google.ca/citations?user=a7LQA8cAAAAJ&hl=en&oi=ao). If you don't have access to any paper, send me an [email](mailto:debanga@cs.ubc.ca).
+My research profile is available in [Google Scholar](https://scholar.google.ca/citations?user=a7LQA8cAAAAJ&hl=en&oi=ao). If you don't have access to any paper, send me an [email](mailto:debanga@cs.ubc.ca). For more details please visit my [research portfolio](https://debangarajneogportfolio.wordpress.com).
 
 You can find my professional information in [LinkedIn](https://www.linkedin.com/in/debanga/).
 
-Currently working part-time on my project [basement](https://debanga.github.io/basement).
+I have a personal interest in learning about latest advancements in the field of VR/MR, especially in the direction of light field and holographic displays. I am particularly interested in understanding the problem of Vergence Accomodation Conflict (VAC). Karl Guttag's [blog](http://www.kguttag.com/) is sweet.
+
+Also working part-time on my hobby-project [basement](https://debanga.github.io/basement).
 
 
 
