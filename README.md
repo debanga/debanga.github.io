@@ -18,5 +18,7 @@ I have a personal interest in learning about latest advancements in the field of
 
 Also working part-time on my hobby-project [basement](https://debanga.github.io/basement).
 
+I also like to [travel](https://flic.kr/s/aHsm2XAMmf). 
+
 
 
