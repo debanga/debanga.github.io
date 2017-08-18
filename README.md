@@ -16,8 +16,6 @@ You can find my professional information in [LinkedIn](https://www.linkedin.com/
 
 I have a personal interest in learning about latest advancements in the field of VR/MR, especially in the direction of light field and holographic displays. I am particularly interested in understanding the problem of Vergence Accomodation Conflict (VAC). Karl Guttag's [blog](http://www.kguttag.com/) is sweet.
 
-Also working part-time on my hobby-project [basement](https://debanga.github.io/basement).
-
 I also love to [travel](https://flic.kr/s/aHsm2XAMmf). 
 
 
