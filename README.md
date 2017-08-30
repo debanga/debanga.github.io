@@ -8,7 +8,7 @@
 
 ---
 
-I have worked in [Sensorimotor Systems Laboratory](http://sensorimotor.cs.ubc.ca/) under the supervision of [Prof. Dinesh K. Pai](http://sensorimotor.cs.ubc.ca/pai/). Selected topics that I have worked on include gaze analysis, face tracking & animation, physics-based simulation, and augmented-reality. 
+I have worked in [Sensorimotor Systems Laboratory](http://sensorimotor.cs.ubc.ca/) at UBC under the supervision of [Prof. Dinesh K. Pai](http://sensorimotor.cs.ubc.ca/pai/) toward my doctoral thesis. Selected topics that I have worked on include gaze analysis, face tracking & animation, physics-based simulation, and augmented-reality. 
 
 My research profile is available in [Google Scholar](https://scholar.google.ca/citations?user=a7LQA8cAAAAJ&hl=en&oi=ao). If you don't have access to any paper, send me an [email](mailto:debanga@cs.ubc.ca). For more details please visit my [research portfolio](https://debangarajneogportfolio.wordpress.com).
 
