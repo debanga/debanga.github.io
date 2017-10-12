@@ -5,7 +5,6 @@
 #### Entrepreneur, Computer Graphics & Vision Researcher
 
 
-
 ---
 
 I have worked in [Sensorimotor Systems Laboratory](http://sensorimotor.cs.ubc.ca/) at UBC under the supervision of [Prof. Dinesh K. Pai](http://sensorimotor.cs.ubc.ca/pai/) toward my doctoral thesis. Selected topics that I have worked on include gaze analysis, face tracking & animation, physics-based simulation, and augmented-reality. 
