@@ -4,6 +4,8 @@
 
 #### Entrepreneur, Computer Graphics & Vision Researcher
 
+#### debanga<at>alumni<dot>ubc<dot>ca
+
 
 ---
 
